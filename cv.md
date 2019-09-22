@@ -27,3 +27,20 @@ Samara, Russia
 #### Junior Developer (April 2019 - Present): ####
 
 I work full-time on different web projects based on C#, ASP.NET Core, Javascript, jQuery, TypeScript, Angular, JSON, HTML, CSS, SQL, etc.
+
+
+
+### Education ###
+---
+
+ **Samara State Technical University**
+
+ - **2016:** Bachelor's degree in applied mathematics and computer science;
+ - **2019:** Master's degree in applied mathematics and computer science.
+
+
+### Language Skills ###
+---
+
+English: Pre-Intermediate
+
