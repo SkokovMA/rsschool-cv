@@ -1,2 +1,1 @@
-# rsschool-cv
-task "Markdown &amp; Git"
+https://skokovma.github.io/rsschool-cv/cv
